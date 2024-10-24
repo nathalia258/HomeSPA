@@ -26,9 +26,6 @@
             android:name=".ServiciosActivity"
             android:exported="false" />
         <activity
-            android:name=".RegistroPersonaActivity"
-            android:exported="false" />
-        <activity
             android:name=".fullScreenActivity"
             android:exported="true" />
         <activity
